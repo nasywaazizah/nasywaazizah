@@ -5,9 +5,9 @@ class CompanyNetlandInvestment {
     private $tahunTerbit;
 
     public function __construct($nama, $cabang, $tahunTerbit) {
-        $this->nama = $nama;
-        $this->cabang = $cabang;
-        $this->tahunTerbit = $tahunTerbit;
+        $this-> nama = $nama;
+        $this-> cabang = $cabang;
+        $this-> tahunTerbit = $tahunTerbit;
 
     }
 
